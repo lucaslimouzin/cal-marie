@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cal-marie/static/css/main.04c70dd7.css",
+    "main.js": "/cal-marie/static/js/main.f4ac6040.js",
+    "static/js/787.9879f6dc.chunk.js": "/cal-marie/static/js/787.9879f6dc.chunk.js",
+    "index.html": "/cal-marie/index.html",
+    "main.04c70dd7.css.map": "/cal-marie/static/css/main.04c70dd7.css.map",
+    "main.f4ac6040.js.map": "/cal-marie/static/js/main.f4ac6040.js.map",
+    "787.9879f6dc.chunk.js.map": "/cal-marie/static/js/787.9879f6dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04c70dd7.css",
+    "static/js/main.f4ac6040.js"
+  ]
+}
